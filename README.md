@@ -59,7 +59,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 - [NeurIPS 2022] Learning Invariant Graph Representations for Out-of-Distribution Generalization [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_GIL.pdf)
 - [NeurIPS 2022] Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_DIDA.pdf)
-- [NeurIPS 2022] Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs
+- [NeurIPS 2022] Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs [[paper]](https://arxiv.org/pdf/2202.05441.pdf)
 - [ICML 2022] Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism [[paper]](https://arxiv.org/pdf/2201.12987.pdf)
 - [arXiv 2022] Finding Diverse and Predictable Subgraphs for Graph Domain Generalization [[paper]](https://arxiv.org/pdf/2206.09345.pdf)
 - [ICLR 2022] Towards Distribution Shift of Node-Level Prediction on Graphs: An Invariance Perspective [[paper]](https://openreview.net/pdf?id=FQOC5u-1egI) 
