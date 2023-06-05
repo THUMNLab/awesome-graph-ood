@@ -56,13 +56,13 @@ We will try our best to make this paper list updated. If you notice some related
 ## Learning Strategy
 
 #### Graph Invariant Learning
-
+- [NeurIPS 2022] Learning Substructure Invariance for Out-of-Distribution Molecular Representations [[paper]](https://openreview.net/pdf?id=2nWUNTnFijm)
 - [NeurIPS 2022] Learning Invariant Graph Representations for Out-of-Distribution Generalization [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_GIL.pdf)
 - [NeurIPS 2022] Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_DIDA.pdf)
 - [NeurIPS 2022] Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs [[paper]](https://arxiv.org/pdf/2202.05441.pdf)
 - [ICML 2022] Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism [[paper]](https://arxiv.org/pdf/2201.12987.pdf)
 - [arXiv 2022] Finding Diverse and Predictable Subgraphs for Graph Domain Generalization [[paper]](https://arxiv.org/pdf/2206.09345.pdf)
-- [ICLR 2022] Towards Distribution Shift of Node-Level Prediction on Graphs: An Invariance Perspective [[paper]](https://openreview.net/pdf?id=FQOC5u-1egI) 
+- [ICLR 2022] Handling Distribution Shifts on Graphs: An Invariance Perspective [[paper]](https://arxiv.org/pdf/2202.02466.pdf) 
 - [ICLR 2022] Discovering Invariant Rationales for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2201.12872.pdf)
 - [NeurIPS 2021] Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data [[paper]](https://arxiv.org/pdf/2108.01099.pdf)
 - [arXiv 2021] Stable Prediction on Graphs with Agnostic Distribution Shift [[paper]](https://arxiv.org/pdf/2110.03865.pdf)
@@ -88,6 +88,8 @@ We will try our best to make this paper list updated. If you notice some related
 
 ## Theory
 
+- [ICLR 2023] Graph Neural Networks are Inherently Good Generalizers: Insights by Bridging GNNs and MLPs
+ [[paper]](https://arxiv.org/pdf/2212.09034.pdf)
 - [NeurIPS 2021] Subgroup Generalization and Fairness of Graph Neural Networks [[paper]](https://arxiv.org/pdf/2106.15535.pdf)
 - [NeurIPS 2021] Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2112.03968.pdf)
 - [ICLR 2021] How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks [[paper]](https://arxiv.org/abs/2009.11848)
